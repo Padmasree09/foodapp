@@ -9,16 +9,16 @@ Online Food Ordering System in PHP
 <li> Food Order 
 <li> Food Order Manage
 <li> Admin Panel
-<li> Deshbord
+<li> Dashboard
 <li> User Management
-<li> Resturent Add
-<li> Resturent Management
-<li> Resturent Category Add
-<li> Catagory Management
+<li> Restaurant Add
+<li> Restaurant Management
+<li> Restaurant Category Add
+<li> Category Management
 <li> Menus
 <li> Order
 <li> Order Management
-<li> Order and Delivary Management
+<li> Order and Delivery Management
 <li> Etc.
 
 ### Instructions: How to Run?
